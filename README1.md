@@ -19,7 +19,7 @@ The notebook includes:
 - Easy to reproduce and extend
 
   🛠 Tech Stack
-- Python 3.x  
+- Python  
 - Jupyter Notebook  
 - Libraries:  
   - pandas  
